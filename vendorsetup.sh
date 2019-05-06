@@ -1,1 +1,3 @@
 add_lunch_combo rr_taimen-userdebug
+add_lunch_combo rr_taimen-user
+add_lunch_combo rr_taimen-eng
