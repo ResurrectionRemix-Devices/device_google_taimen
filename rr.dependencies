@@ -1,6 +1,12 @@
 [
   {
     "remote": "github",
+    "repository": "Lunarixus/android_hardware_qcom_audio",
+    "target_path": "hardware/qcom/audio",
+    "branch": "pie"
+  },
+  {
+    "remote": "github",
     "repository": "Lunarixus/android_hardware_qcom_msm8998",
     "target_path": "hardware/qcom/msm8998",
     "branch": "pie"
