@@ -25,8 +25,8 @@
   },
   {
     "remote": "github",
-    "repository": "Lunarixus/android_vendor_google_devices",
+    "repository": "DirtyUnicorns/android_vendor_google",
     "target_path": "vendor/google_devices",
-    "branch": "May"
+    "branch": "p9x"
   }
 ]
