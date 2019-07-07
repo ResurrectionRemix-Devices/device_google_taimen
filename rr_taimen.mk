@@ -38,7 +38,7 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
     PRIVATE_BUILD_DESC="taimen-user 9 PQ2A.190405.003 5310204 release-keys"
 
 $(call inherit-product-if-exists, vendor/google/taimen/taimen-vendor.mk)
-$(call inherit-product-if-exists, vendor/pixelgapps/pixel-gapps.mk)
+$(call inherit-product-if-exists, vendor/googleapps/googleapps.mk)
 
 TARGET_SCREEN_WIDTH := 1440
 TARGET_SCREEN_HEIGHT := 2880

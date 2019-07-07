@@ -28,5 +28,11 @@
     "repository": "DirtyUnicorns/android_vendor_google",
     "target_path": "vendor/google_devices",
     "branch": "p9x"
+  },
+  {
+    "remote": "gitlab",
+    "repository": "Lunarixus/vendor_googleapps",
+    "target_path": "vendor/googleapps",
+    "branch": "p"
   }
 ]
